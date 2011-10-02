@@ -1,0 +1,8 @@
+# vvmansel 
+# This is a very simple colony, good for a preliminary test case. 
+# It is a 3x3 world and the cell should immediately die..
+3
+3
+---
+-X-
+---
